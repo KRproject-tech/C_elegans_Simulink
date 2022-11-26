@@ -33,6 +33,17 @@ __[Step 3]__ Execute the "exe.m" to start numerical analysis
 
 __[Step 4]__ Push "plot" button to see results
 
+
+## Image
+
+__in Water__
+
+
+
+__on Agar__
+
+![untitled](https://user-images.githubusercontent.com/114337358/204078029-f7bdfb7b-c29b-4289-be38-ac9ead6c833b.png)
+
 ## Reference
 
 [1] Boyle et al., Gait modulation in C. elegans: an integrated neuromechanical model, Frontiers in Computational Neuroscience, Vol. 6, 2012. DOI: 10.3389/fncom.2012.00010.
