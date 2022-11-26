@@ -2,8 +2,13 @@
 An integrated neuromechanical model for the nematode, C. elegans,  which is modeled by Jordan H. Boyle (Boyle et al., 2012).
 
 ## Overview
+An integrated neuromechanical model for the nematode, C. elegans,  which is modeled by Jordan H. Boyle (Boyle et al., 2012).
+This nematode model is ported in MATLAB Simulink, which is verified in MATLAB R2018a.
 
 
+## Block diagram
+
+![image](https://user-images.githubusercontent.com/114337358/204077618-f508f60c-c642-44ee-8ed2-62f99a33cb3e.png)
 
 
 
