@@ -38,6 +38,7 @@ __[Step 4]__ Push "plot" button to see results
 
 __in Water__
 
+![untitled](https://user-images.githubusercontent.com/114337358/204078363-8d8c5584-e77d-4e1f-b329-3f881905d8ab.png)
 
 
 __on Agar__
