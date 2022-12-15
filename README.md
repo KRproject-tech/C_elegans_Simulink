@@ -1,5 +1,5 @@
 # C_elegans_Simulink
-An integrated neuromechanical model for the nematode, C. elegans,  which is modeled by Jordan H. Boyle (Boyle et al., 2012).
+An integrated neuromechanical model for the nematode, C. elegans,  which is modeled by Jordan H. Boyle (Boyle et al., 2012)[^1].
 
 ## Overview
 An integrated neuromechanical model for the nematode, C. elegans,  which is modeled by Jordan H. Boyle (Boyle et al., 2012).
@@ -45,9 +45,8 @@ __on Agar__
 
 ![untitled](https://user-images.githubusercontent.com/114337358/204078029-f7bdfb7b-c29b-4289-be38-ac9ead6c833b.png)
 
-## Reference
-
-[1] Boyle et al., Gait modulation in C. elegans: an integrated neuromechanical model, Frontiers in Computational Neuroscience, Vol. 6, 2012. DOI: 10.3389/fncom.2012.00010.
+### Reference
+[^1]: Boyle et al., Gait modulation in C. elegans: an integrated neuromechanical model, Frontiers in Computational Neuroscience, Vol. 6, 2012. DOI: 10.3389/fncom.2012.00010.
 
 
 
