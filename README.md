@@ -1,4 +1,12 @@
 # C_elegans_Simulink
+
+**Communication**
+
+<a style="text-decoration: none" href="https://twitter.com/hogelungfish" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%40hogelungfish-1da1f2.svg" alt="Twitter">
+</a>
+<p>
+
 An integrated neuromechanical model for the nematode, C. elegans,  which is modeled by Jordan H. Boyle (Boyle et al., 2012)[^1].
 
 ## Overview
