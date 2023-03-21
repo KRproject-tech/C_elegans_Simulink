@@ -7,6 +7,12 @@
 </a>
 <p>
 
+**Language**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="60"/>
+<p>
+
+
 An integrated neuromechanical model for the nematode, C. elegans,  which is modeled by Jordan H. Boyle (Boyle et al., 2012)[^1].
 
 ## Overview
